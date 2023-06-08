@@ -1,9 +1,9 @@
-# custom riced i3wm-config
+# Custom riced i3wm-config
 It's the first time I make this kind of repository, so I don't know if it's well structured.
 But anyway, here's the config I made to make my i3 look like this (perhaps I ommited some things, I'll update this later lol)
 
 
-###screenshots
+###Screenshots
 
 ![2023-06-08-00:58:39-screenshot](https://github.com/Nomka0/i3wm-config/assets/66049598/665de528-df37-445e-a9b0-2b039f5d409e)
 
