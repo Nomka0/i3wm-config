@@ -8,9 +8,13 @@ But anyway, here's the config I made to make my i3 look like this (perhaps I omm
 ![2023-06-08-00:58:39-screenshot](https://github.com/Nomka0/i3wm-config/assets/66049598/665de528-df37-445e-a9b0-2b039f5d409e)
 
 for cmus, I just used amazon theme, and set bg to default
-https://imgur.com/gallery/wmksFfW
+
 ![2023-06-08-00:36:05-screenshot](https://github.com/Nomka0/i3wm-config/assets/66049598/b7e8950f-c29e-4ac5-a751-5c27f4f2e99a)
 custom neofetch with berserk's sacrifice mark
+
+![2023-06-08-01:15:09-screenshot](https://github.com/Nomka0/i3wm-config/assets/66049598/a33a4ba9-2282-412e-8057-c195a1b7af29)
+![2023-06-08-01:15:48-screenshot](https://github.com/Nomka0/i3wm-config/assets/66049598/55bb19dc-2545-4d9c-ba51-e0486ec0fc57)
+
 
 For status bar, Awesome font was used, it includes a lot of icons that were used as labels for the icons (the os came like that, I just tweaked it a little bit). I modified the i3-blocks and i3 config files so it looked like that. bandwidth2 file was modified as well so the status bar shows KB instead of MB.
 
