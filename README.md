@@ -17,7 +17,7 @@ For status bar, Awesome font was used, it includes a lot of icons that were used
 I'll be leaving the ascci art I made for the sacrifice mark for neofetchtoo
 
 ## Dependencies
-I based my config in the one from this guy https://github.com/laintnaya/i3wm-rice-BlueLain/, tho I'll be leaving the ones I have as well:
+I based my config on the one from this guy https://github.com/laintnaya/i3wm-rice-BlueLain/, tho I'll be leaving the ones I have as well:
 * [feh] (wallpapers) for the slideshow I made a little script with a while sleep function within it
 * [cava] (sound bars)
 * [cmus] (console music player)
